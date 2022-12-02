@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Mandi",
+      "details": "lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Jogging",
+      "details": "lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 3,
+      "title": "Bersih-bersih kamar",
+      "details": "lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "ganti",
+      "details": "oke",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
